@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         (ﾉ≧ڡ≦) Student Site Captcha Buster~
-// @namespace    https://github.com/TheXploler/UGStudentSite-CaptchaBuster
+// @namespace    https://userscripts.fandrest.my.id
 // @version      1.0
 // @author       Fandrest
 // @description  Auto Solve Basic Captcha in studentsite.gunadarma.ac.id
